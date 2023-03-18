@@ -22,15 +22,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> 
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> 
-</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/> 
-</a>
 </p>
 <h3 align="left">Stats:</h3>
 
-![Majid Arabi GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiSekoba&hide=contribs,prs)
+![Mehdi Sekoba GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiSekoba&hide=contribs,prs)
