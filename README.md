@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Majid Arabi</h1>
+<h1 align="center">Hi 👋, I'm Mehdi Sekoba</h1>
 <h3 align="center">A passionate android developer from Iran</h3>
 
 - 👁 <img src="https://komarev.com/ghpvc/?username=majidarabi&label=Profile%20views&color=0e75b6&style=flat" alt="MehdiSekopba" />
