@@ -5,12 +5,14 @@
 - 🌱 I’m currently learning Design Patterns, Jetpack Compose
 - 📫 How to reach me **webmahdi72@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehdi-sekoba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehdisekoba/" height="30" width="40" /></a>
-<a href="https://instagram.com/mehdi_sekoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mehdi Sekoba" height="30" width="40" /></a>
-</p>
-
+ #### 📫 How to reach me:
+  
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mehdi-sekoba/) &nbsp;
+  <a href="mailto:webmahdi72@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="3.5%"/>](https://t.me/Mehdi_s72)  &nbsp;
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/mehdisekoba)  &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mehdi_sekoba/)
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
