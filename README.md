@@ -29,4 +29,4 @@
 </p>
 <h3 align="left">Stats:</h3>
 
-![Mehdi Sekoba GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiSekoba&hide=contribs,prs)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/mehdisekoba/stats)
