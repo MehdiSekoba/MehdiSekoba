@@ -30,3 +30,6 @@
 <h3 align="left">Stats:</h3>
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/mehdisekoba/stats)
+
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/mehdisekoba/highlights)
