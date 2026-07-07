@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=dracula&hide_border=true&hide=html,css&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
