@@ -43,13 +43,13 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiSekoba&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Mehdi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiSekoba&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Mehdi's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
