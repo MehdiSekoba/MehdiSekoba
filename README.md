@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=999999&width=650&lines=Hi%2C+I'm+Mehdi+Sekoba%F0%9F%8E%A9%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
-
 <h3 align="center">A passionate Android Developer from Iran 🇮🇷</h3>
 
 <div align="center">
@@ -10,8 +9,11 @@
 
 <br>
 
-- 🌱 Currently learning **Design Patterns** and **Jetpack Compose**
-- 💡 Passionate about clean architecture, MVVM, and modern Android development
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **Design Patterns** & **Jetpack Compose**
+- 💡 Passionate about **Clean Architecture**, **MVVM**, and building elegant Android applications
+- 🔭 Always exploring new ways to improve user experience and app performance
 - 📫 How to reach me: **webmahdi72@gmail.com**
 
 ### 📫 Connect with me:
@@ -24,32 +26,30 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Technologies & Tools</h3>
 <p align="left">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <!-- می‌تونی بعداً Android Studio, Firebase, Retrofit و ... اضافه کنی -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Highlights</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiSekoba&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Mehdi's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MehdiSekoba&theme=radical&no-frame=true&margin-w=15&row=1&column=3" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you%20for%20visiting%20my%20profile!&fontSize=20" alt="Footer" />
+</div>
