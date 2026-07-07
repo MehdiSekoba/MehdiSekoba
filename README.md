@@ -27,9 +27,16 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/> 
 </p>
-<h3 align="left">Stats:</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/mehdisekoba/stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiSekoba&show_icons=true&theme=dracula&hide_border=true" alt="Mehdi's Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiSekoba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/mehdisekoba/highlights)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
