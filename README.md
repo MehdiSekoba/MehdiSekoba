@@ -44,12 +44,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiSekoba&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" alt="Contribution Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehdiSekoba&theme=radical&no-frame=true&margin-w=15&row=1&column=3" alt="Trophies" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you%20for%20visiting%20my%20profile!&fontSize=20" alt="Footer" />
-</div>
